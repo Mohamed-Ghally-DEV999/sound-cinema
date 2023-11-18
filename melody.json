@@ -1,0 +1,905 @@
+{
+  "genres": [
+    {
+      "id": 1,
+      "title": "Hip-Hop/Rap/Trap",
+      "artists": [
+        {
+          "artistName": "Travis Scott",
+          "artistPhoto": "TempNow",
+          "artistId": 1,
+          "artistAlbums": [
+            {
+              "albumTitle": "Astroworld",
+              "albumCover": "TempNow",
+              "albumId": 1,
+              "releaseYear": 2018,
+              "quantity": "17 Songs For Now",
+              "songs": [
+                {
+                  "songId": 9001,
+                  "songNO": 1,
+                  "songName": "5% Tint",
+                  "songDuration": "3:17",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Travis Scott/Astroworld/Travis Scott - 5 TINT (Audio).mp3"
+                },
+                {
+                  "songId": 9002,
+                  "songNO": 2,
+                  "songName": "Astrothunder",
+                  "songDuration": "2:24",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Travis Scott/Astroworld/Travis Scott - ASTROTHUNDER (Audio).mp3"
+                },
+                {
+                  "songId": 9003,
+                  "songNO": 3,
+                  "songName": "Butterfly Effect",
+                  "songDuration": "3:32",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Travis Scott/Astroworld/Travis Scott - BUTTERFLY EFFECT.mp3"
+                },
+                {
+                  "songId": 9004,
+                  "songNO": 2,
+                  "songName": "Can't Say",
+                  "songDuration": "3:19",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Travis Scott/Astroworld/Travis Scott - CAN T SAY (Audio).mp3"
+                },
+                {
+                  "songId": 9005,
+                  "songNO": 2,
+                  "songName": "Carousel",
+                  "songDuration": "3:01",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Travis Scott/Astroworld/Travis Scott - CAROUSEL (Audio).mp3"
+                },
+                {
+                  "songId": 9006,
+                  "songNO": 2,
+                  "songName": "Coffee Bean",
+                  "songDuration": "3:30",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Travis Scott/Astroworld//Travis Scott - COFFEE BEAN (Audio).mp3"
+                },
+                {
+                  "songId": 9007,
+                  "songNO": 2,
+                  "songName": "HOUSTONFORNICATION",
+                  "songDuration": "3:39",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Travis Scott/Astroworld/Travis Scott - HOUSTONFORNICATION (Audio).mp3"
+                },
+                {
+                  "songId": 9008,
+                  "songNO": 2,
+                  "songName": "NC-17",
+                  "songDuration": "2:38",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Travis Scott/Astroworld/Travis Scott - NC-17 (Audio).mp3"
+                },
+                {
+                  "songId": 9009,
+                  "songNO": 2,
+                  "songName": "No Bystanders",
+                  "songDuration": "3:39",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Travis Scott/Astroworld/Travis Scott - NO BYSTANDERS (Audio).mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "R.I.P Screw",
+                  "songDuration": "3:07",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Travis Scott/Astroworld/Travis Scott - R.I.P. SCREW (Audio).mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "Sicko Mode",
+                  "songDuration": "5:14",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Travis Scott/Astroworld/Travis Scott - SICKO MODE (Audio).mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "Skeletons",
+                  "songDuration": "2:27",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Travis Scott/Astroworld/Travis Scott - SKELETONS (Audio).mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "Stargazing",
+                  "songDuration": "4:32",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Travis Scott/Astroworld/Travis Scott - STARGAZING (Audio).mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "Stop Trying To Be God",
+                  "songDuration": "5:40",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Travis Scott/Astroworld/Travis Scott - STOP TRYING TO BE GOD (Audio).mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "Wake Up",
+                  "songDuration": "3:53",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Travis Scott/Astroworld/Travis Scott - WAKE UP (Audio).mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "Who? What!",
+                  "songDuration": "2:58",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Travis Scott/Astroworld/Travis Scott - WHO WHAT (Audio).mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "Yosemite",
+                  "songDuration": "2:31",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Travis Scott/Astroworld/Travis Scott - YOSEMITE (Audio).mp3"
+                }
+              ]
+            },
+            {
+              "albumTitle": "Utopia",
+              "albumCover": "TempNow",
+              "albumId": 2,
+              "releaseYear": 2023,
+              "quantity": "19 Songs For Now",
+              "songs": [
+                {
+                  "songId": 9001,
+                  "songNO": 1,
+                  "songName": "CIRCUS MAXIMUS",
+                  "songDuration": "4:20",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Travis Scott/Utopia/Travis Scott - CIRCUS MAXIMUS (Official Audio) ft. The Weeknd, Swae Lee.mp3"
+                },
+                {
+                  "songId": 9002,
+                  "songNO": 2,
+                  "songName": "DELERESTO",
+                  "songDuration": "4:35",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Travis Scott/Utopia/Travis Scott - DELRESTO (ECHOES) (Official Audio) ft. Beyoncé.mp3"
+                },
+                {
+                  "songId": 9003,
+                  "songNO": 3,
+                  "songName": "FE!N",
+                  "songDuration": "3:32",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Travis Scott/Utopia/Travis Scott - FEIN (Official Audio) ft. Playboi Carti.mp3"
+                },
+                {
+                  "songId": 9004,
+                  "songNO": 2,
+                  "songName": "GOD'S COUNTRY",
+                  "songDuration": "2:09",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Travis Scott/Utopia/Travis Scott - GOD S COUNTRY (Official Audio).mp3"
+                },
+                {
+                  "songId": 9005,
+                  "songNO": 2,
+                  "songName": "HYAENA",
+                  "songDuration": "3:43",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Travis Scott/Utopia/Travis Scott - HYAENA (Official Audio).mp3"
+                },
+                {
+                  "songId": 9006,
+                  "songNO": 2,
+                  "songName": "I KNOW ?",
+                  "songDuration": "3:33",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Travis Scott/Utopia/Travis Scott - I KNOW (Official Audio).mp3"
+                },
+                {
+                  "songId": 9007,
+                  "songNO": 2,
+                  "songName": "LOOOVE",
+                  "songDuration": "3:48",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Travis Scott/Utopia/Travis Scott - LOOOVE (Official Audio) ft. Kid Cudi.mp3"
+                },
+                {
+                  "songId": 9008,
+                  "songNO": 2,
+                  "songName": "LOST FOREVER",
+                  "songDuration": "2:44",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Travis Scott/Utopia/Travis Scott - LOST FOREVER (Official Audio) ft. Westside Gunn.mp3"
+                },
+                {
+                  "songId": 9009,
+                  "songNO": 2,
+                  "songName": "MELTDOWN",
+                  "songDuration": "4:07",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Travis Scott/Utopia/Travis Scott - MELTDOWN (Official Audio) ft. Drake.mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "MODERN JAM",
+                  "songDuration": "4:16",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Travis Scott/Utopia/Travis Scott - MODERN JAM (Official Audio) ft. Teezo Touchdown.mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "MY EYES",
+                  "songDuration": "4:11",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Travis Scott/Utopia/Travis Scott - MY EYES (Official Audio).mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "PARSAIL",
+                  "songDuration": "2:36",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Travis Scott/Utopia/Travis Scott - PARASAIL (Official Audio) ft. Yung Lean, Dave Chappelle.mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "Stargazing",
+                  "songDuration": "4:32",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Travis Scott/Astroworld/Travis Scott - STARGAZING (Audio).mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "Stop Trying To Be God",
+                  "songDuration": "5:40",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Travis Scott/Astroworld/Travis Scott - STOP TRYING TO BE GOD (Audio).mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "SIRENS",
+                  "songDuration": "3:26",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Travis Scott/Utopia/Travis Scott - SIRENS (Official Audio).mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "SKITZO",
+                  "songDuration": "6:08",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Travis Scott/Utopia/Travis Scott - SKITZO (Official Audio) ft. Young Thug.mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "TELEKINESIS",
+                  "songDuration": "5:55",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Travis Scott/Utopia/Travis Scott - TELEKINESIS (Official Audio) ft. SZA, Future.mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "THANK GOD",
+                  "songDuration": "3:06",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Travis Scott/Utopia/Travis Scott - THANK GOD (Official Audio).mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "TIL FURTHER NOTICE",
+                  "songDuration": "2:58",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Travis Scott/Utopia/Travis Scott - TIL FURTHER NOTICE (Official Audio) ft. James Blake, 21 Savage.mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "TOPIA TWINS",
+                  "songDuration": "3:44",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Travis Scott/Utopia/Travis Scott - TOPIA TWINS (Official Audio) ft. Rob49, 21 Savage.mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "K-POP",
+                  "songDuration": "3:06",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Travis Scott/Astroworld/Travis Scott - WHO WHAT (Audio).mp3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "artistName": "Playboi Carti",
+          "artistPhoto": "TempNow",
+          "artistId": 1,
+          "artistAlbums": [
+            {
+              "albumTitle": "Playboi Carti",
+              "albumCover": "TempNow",
+              "albumId": 1,
+              "releaseYear": 2017,
+              "quantity": "15 Songs For Now",
+              "songs": [
+                {
+                  "songId": 9001,
+                  "songNO": 1,
+                  "songName": "Location",
+                  "songDuration": "2:48",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Playboi Carti/Playboi Carti/Playboi Carti - Location (Official Audio).mp3"
+                },
+                {
+                  "songId": 9002,
+                  "songNO": 2,
+                  "songName": "Magnolia",
+                  "songDuration": "3:00",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Playboi Carti/Playboi Carti/Playboi Carti - Magnolia (Audio).mp3"
+                },
+                {
+                  "songId": 9003,
+                  "songNO": 3,
+                  "songName": "Lookin",
+                  "songDuration": "3:02",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Playboi Carti/Playboi Carti/Playboi Carti - Lookin (Audio) ft. Lil Uzi Vert.mp3"
+                },
+                {
+                  "songId": 9004,
+                  "songNO": 2,
+                  "songName": "wokeuplikethis*",
+                  "songDuration": "3:55",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Playboi Carti/Playboi Carti/Playboi Carti - wokeuplikethis (Audio) ft. Lil Uzi Vert.mp3"
+                },
+                {
+                  "songId": 9005,
+                  "songNO": 2,
+                  "songName": "Let It Go",
+                  "songDuration": "2:30",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Playboi Carti/Playboi Carti/Playboi Carti - Let It Go (Official Audio).mp3"
+                },
+                {
+                  "songId": 9006,
+                  "songNO": 2,
+                  "songName": "Half & Half",
+                  "songDuration": "3:46",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Playboi Carti/Playboi Carti/Playboi Carti - Half & Half (Official Audio).mp3"
+                },
+                {
+                  "songId": 9008,
+                  "songNO": 2,
+                  "songName": "New Choppa",
+                  "songDuration": "2:05",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Playboi Carti/Playboi Carti/Playboi Carti - New Choppa (Audio) ft. A AP Rocky.mp3"
+                },
+                {
+                  "songId": 9009,
+                  "songNO": 2,
+                  "songName": "Other Shit",
+                  "songDuration": "2:48",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Playboi Carti/Playboi Carti/Playboi Carti - Other Shit (Audio).mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "NO.9",
+                  "songDuration": "3:18",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Playboi Carti/Playboi Carti/Playboi Carti - NO. 9 (Official Audio).mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "dothatshit!",
+                  "songDuration": "3:04",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Playboi Carti/Playboi Carti/Playboi Carti - dothatshit (Audio).mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "Lame Niggaz",
+                  "songDuration": "2:52",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Playboi Carti/Playboi Carti/Playboi Carti - Lame Niggaz (Audio).mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "Yah Mean",
+                  "songDuration": "2:45",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Playboi Carti/Playboi Carti/Playboi Carti - Yah Mean (Official Audio).mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "Flex",
+                  "songDuration": "4:00",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Playboi Carti/Playboi Carti/Playboi Carti - Flex (Official Audio) ft. Leven Kali.mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "Kelly K",
+                  "songDuration": "4:30",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Playboi Carti/Playboi Carti/Playboi Carti - Kelly K (Official Audio).mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "Had 2",
+                  "songDuration": "2:19",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Travis Scott/Astroworld/Travis Scott - WHO WHAT (Audio).mp3"
+                }
+              ]
+            },
+            {
+              "albumTitle": "Die Lit",
+              "albumCover": "TempNow",
+              "albumId": 2,
+              "releaseYear": 2018,
+              "quantity": "19 Songs For Now",
+              "songs": [
+                {
+                  "songId": 9001,
+                  "songNO": 1,
+                  "songName": "Long Time - Intro",
+                  "songDuration": "3:31",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Playboi Carti/Die Lit/Long Time (Intro).mp3"
+                },
+                {
+                  "songId": 9002,
+                  "songNO": 2,
+                  "songName": "R.I.P",
+                  "songDuration": "3:08",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Playboi Carti/Die Lit/Playboi Carti - R.I.P..mp3"
+                },
+                {
+                  "songId": 9003,
+                  "songNO": 3,
+                  "songName": "Lean 4 Real",
+                  "songDuration": "2:57",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Playboi Carti/Die Lit/Lean 4 Real.mp3"
+                },
+                {
+                  "songId": 9004,
+                  "songNO": 2,
+                  "songName": "Old Money",
+                  "songDuration": "2:15",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Playboi Carti/Die Lit/Playboi Carti - Old Money.mp3"
+                },
+                {
+                  "songId": 9005,
+                  "songNO": 2,
+                  "songName": "Love Hurts",
+                  "songDuration": "3:00",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Playboi Carti/Die Lit/Playboi Carti - love hurts (Audio) ft. Travis Scott.mp3"
+                },
+                {
+                  "songId": 9006,
+                  "songNO": 2,
+                  "songName": "Shoota",
+                  "songDuration": "3:33",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Playboi Carti/Die Lit/Playboi Carti - Shoota (Audio) ft. Lil Uzi Vert.mp3"
+                },
+                {
+                  "songId": 9007,
+                  "songNO": 2,
+                  "songName": "Right Now",
+                  "songDuration": "3:27",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Playboi Carti/Die Lit/Right Now.mp3"
+                },
+                {
+                  "songId": 9008,
+                  "songNO": 2,
+                  "songName": "Poke It Out",
+                  "songDuration": "4:29",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Playboi Carti/Die Lit/Playboi Carti - Poke It Out (Audio) ft. Nicki Minaj.mp3"
+                },
+                {
+                  "songId": 9009,
+                  "songNO": 2,
+                  "songName": "HOME (KOD)",
+                  "songDuration": "2:42",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Playboi Carti/Die Lit/Playboi Carti - Home (Audio).mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "Fell In Luv",
+                  "songDuration": "3:26",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Playboi Carti/Die Lit/Fell In Luv.mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "Foregin",
+                  "songDuration": "2:22",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Playboi Carti/Die Lit/Foreign.mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "Pull Up",
+                  "songDuration": "2:29",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Playboi Carti/Die Lit/Pull Up.mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "Mileage",
+                  "songDuration": "2:29",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Playboi Carti/Die Lit/Mileage.mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "FlatBed Freestyle",
+                  "songDuration": "3:13",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Playboi Carti/Die Lit/FlatBed Freestyle.mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "No Time",
+                  "songDuration": "3:39",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Playboi Carti/Die Lit/Playboi Carti ft. Gunna - No Time [Explicit].mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "Middle Of The Summer",
+                  "songDuration": "2:17",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Playboi Carti/Die Lit/Middle Of The Summer.mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "Choppa Won't Miss",
+                  "songDuration": "3:37",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Playboi Carti/Die Lit/Choppa Won t Miss.mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "R.I.P Fredo - Notice Me",
+                  "songDuration": "2:41",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Playboi Carti/Die Lit/R.I.P. Fredo (Notice Me).mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "Top",
+                  "songDuration": "2:13",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Playboi Carti/Die Lit/Top.mp3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "artistName": "Juice WRLD",
+          "artistPhoto": "TempNow",
+          "artistId": 1,
+          "artistAlbums": [
+            {
+              "albumTitle": "Goodbye & Good Riddance",
+              "albumCover": "TempNow",
+              "albumId": 1,
+              "releaseYear": 2018,
+              "quantity": "17 Songs For Now",
+              "songs": [
+                {
+                  "songId": 9001,
+                  "songNO": 1,
+                  "songName": "Intro",
+                  "songDuration": "1:15",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Juice Wrld/Goodbye & Good Riddance/Juice WRLD - Intro (Official Audio).mp3"
+                },
+                {
+                  "songId": 9002,
+                  "songNO": 2,
+                  "songName": "All Girls Are The Same",
+                  "songDuration": "2:55",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Juice Wrld/Goodbye & Good Riddance/Juice WRLD - All Girls Are The Same.mp3"
+                },
+                {
+                  "songId": 9003,
+                  "songNO": 3,
+                  "songName": "Lucid Dreams",
+                  "songDuration": "4:00",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Juice Wrld/Goodbye & Good Riddance/Juice Wrld - Lucid Dreams.mp3"
+                },
+                {
+                  "songId": 9004,
+                  "songNO": 2,
+                  "songName": "Wasted",
+                  "songDuration": "4:16",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Juice Wrld/Goodbye & Good Riddance/Juice WRLD – Wasted (feat. Lil Uzi Vert).mp3"
+                },
+                {
+                  "songId": 9005,
+                  "songNO": 2,
+                  "songName": "Armed And Dangerous",
+                  "songDuration": "2:50",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Juice Wrld/Goodbye & Good Riddance/Juice WRLD - Armed And Dangerous.mp3"
+                },
+                {
+                  "songId": 9006,
+                  "songNO": 2,
+                  "songName": "Black & White",
+                  "songDuration": "3:08",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Juice Wrld/Goodbye & Good Riddance/Juice WRLD - Black & White.mp3"
+                },
+                {
+                  "songId": 9008,
+                  "songNO": 2,
+                  "songName": "Lean Wit Me",
+                  "songDuration": "2:05",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Juice Wrld/Goodbye & Good Riddance/Juice WRLD - Lean Wit Me (Official Audio).mp3"
+                },
+                {
+                  "songId": 9009,
+                  "songNO": 2,
+                  "songName": "I'll Be Fine",
+                  "songDuration": "4:04",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Juice Wrld/Goodbye & Good Riddance/Juice WRLD - I ll Be Fine (Official Audio).mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "Used To",
+                  "songDuration": "2:56",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Juice Wrld/Goodbye & Good Riddance/Juice WRLD - Used To (Official Audio).mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "Candles",
+                  "songDuration": "3:03",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Juice Wrld/Goodbye & Good Riddance/Juice WRLD - Candles (Official Audio).mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "Scared Of Love",
+                  "songDuration": "2:50",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Juice Wrld/Goodbye & Good Riddance/Juice WRLD - Scared Of Love (Official Audio).mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "Hurt Me",
+                  "songDuration": "2:02",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Juice Wrld/Goodbye & Good Riddance/Juice WRLD - Hurt Me (Official Audio).mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "I'm Still",
+                  "songDuration": "3:13",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Juice Wrld/Goodbye & Good Riddance/Juice WRLD - I m Still (Official Audio).mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "End Of The Road",
+                  "songDuration": "2:43",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Juice Wrld/Goodbye & Good Riddance/Juice WRLD - End Of The Road (Official Audio).mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "Long Gone",
+                  "songDuration": "3:07",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Juice Wrld/Goodbye & Good Riddance/Juice WRLD - Long Gone (Official Audio).mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "Betrayal - Skit",
+                  "songDuration": "1:04",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Juice Wrld/Goodbye & Good Riddance/Juice WRLD - Betrayal (Skit) (Official Audio).mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "Karma - Skit",
+                  "songDuration": "3:07",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Juice Wrld/Goodbye & Good Riddance/Juice WRLD - Karma (Skit) (Official Audio).mp3"
+                }
+              ]
+            },
+            {
+              "albumTitle": "Legends Never Die",
+              "albumCover": "TempNow",
+              "albumId": 2,
+              "releaseYear": 2020,
+              "quantity": "22 Songs For Now",
+              "songs": [
+                {
+                  "songId": 9001,
+                  "songNO": 1,
+                  "songName": "Anxiety - Intro",
+                  "songDuration": "1:10",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Juice Wrld/Legends Never Die/Anxiety (Intro).mp3"
+                },
+                {
+                  "songId": 9002,
+                  "songNO": 2,
+                  "songName": "Conversations",
+                  "songDuration": "3:01",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Juice Wrld/Legends Never Die/Juice WRLD - Conversations (Official Audio).mp3"
+                },
+                {
+                  "songId": 9003,
+                  "songNO": 3,
+                  "songName": "Titanic",
+                  "songDuration": "2:56",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Juice Wrld/Legends Never Die/Juice WRLD - Titanic (Official Audio).mp3"
+                },
+                {
+                  "songId": 9004,
+                  "songNO": 2,
+                  "songName": "Bad Energy",
+                  "songDuration": "3:06",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Juice Wrld/Legends Never Die/Juice WRLD - Bad Energy (Official Audio).mp3"
+                },
+                {
+                  "songId": 9005,
+                  "songNO": 2,
+                  "songName": "Righteous",
+                  "songDuration": "4:03",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Juice Wrld/Legends Never Die/Juice WRLD - Righteous.mp3"
+                },
+                {
+                  "songId": 9006,
+                  "songNO": 2,
+                  "songName": "Blood On My Jeans",
+                  "songDuration": "2:34",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Juice Wrld/Legends Never Die/Juice WRLD - Blood On My Jeans (Official Audio).mp3"
+                },
+                {
+                  "songId": 9007,
+                  "songNO": 2,
+                  "songName": "Smile",
+                  "songDuration": "3:16",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Juice Wrld/Legends Never Die/Juice WRLD - Smile ft. The Weeknd.mp3"
+                },
+                {
+                  "songId": 9008,
+                  "songNO": 2,
+                  "songName": "Tell Me U Luv Me",
+                  "songDuration": "3:00",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Juice Wrld/Legends Never Die/Juice WRLD, Trippie Redd- Tell Me U Luv Me.mp3"
+                },
+                {
+                  "songId": 9009,
+                  "songNO": 2,
+                  "songName": "Hate The Other Side",
+                  "songDuration": "2:40",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Juice Wrld/Legends Never Die/Juice WRLD ft. Marshmello, Polo G & Kid Laroi - Hate The Other Side (Official Audio).mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "Get Through It - Interlude",
+                  "songDuration": "0:20",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Playboi Carti/Die Lit/Fell In Luv.mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "Life's A Mess",
+                  "songDuration": "3:22",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Juice Wrld/Legends Never Die/Life s A Mess.mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "Come & Go (with Marshmello)",
+                  "songDuration": "2:29",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Juice Wrld/Legends Never Die/Juice WRLD ft. Marshmello - Come & Go (Official Audio).mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "I Want It",
+                  "songDuration": "2:53",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Juice Wrld/Legends Never Die/Juice WRLD - I Want It (Official Audio).mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "Fighting Demons",
+                  "songDuration": "3:20",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Juice Wrld/Legends Never Die/Juice WRLD - Fighting Demons (Official Audio).mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "Wishing Well",
+                  "songDuration": "3:14",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Juice Wrld/Legends Never Die/Juice WRLD - Wishing Well (Official Audio).mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "Screw Juice",
+                  "songDuration": "2:59",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Juice Wrld/Legends Never Die/Juice WRLD - Screw Juice (Official Audio).mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "Up Up And Away",
+                  "songDuration": "2:27",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Juice Wrld/Legends Never Die/Juice WRLD - Up Up And Away (Official Audio).mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "The Man, The Myth, The Legend - Interlude",
+                  "songDuration": "2:17",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Juice Wrld/Legends Never Die/Juice WRLD - The Man, The Myth, The Legend [Interlude] (Official Audio).mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "Stay High",
+                  "songDuration": "2:48",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Juice Wrld/Legends Never Die/Juice WRLD - Stay High (Official Audio).mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "Can't Die",
+                  "songDuration": "3:03",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Juice Wrld/Legends Never Die/Juice WRLD - Can t Die (Official Audio).mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "Man Of The Year",
+                  "songDuration": "2:16",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Juice Wrld/Legends Never Die/Juice WRLD - Man Of The Year (Official Audio).mp3"
+                },
+                {
+                  "songId": 9001,
+                  "songNO": 2,
+                  "songName": "Juice WRLD Speaks From Heaven - Outro",
+                  "songDuration": "0:30",
+                  "file": "./src/HarmonyHeaven/Hip-Hop/Juice Wrld/Legends Never Die/Juice WRLD Speaks From Heaven (Outro).mp3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Indie & Indie/Folk",
+      "artists": [
+        {
+          "artistName": "Travis Scott",
+          "artistPhoto": "TempNow",
+          "artistId": 1,
+          "artistAlbums": [
+            {
+              "albumTitle": "Astroworld",
+              "albumCover": "TempNow",
+              "albumId": 1,
+              "releaseYear": 2018,
+              "quantity": "17 or 16 Something Like That",
+              "songs": [
+                {
+                  "songId": 9002,
+                  "songNO": 2,
+                  "songName": "Dream is Collapsing",
+                  "songDuration": "2:23",
+                  "file": "dream_is_collapsing.mp3"
+                },
+                {
+                  "id": 9002,
+                  "number": 2,
+                  "name": "Dream is Collapsing",
+                  "quantity": 1,
+                  "duration": "2:23",
+                  "file": "dream_is_collapsing.mp3"
+                }
+              ]
+            },
+            {
+              "albumTitle": "Utopia",
+              "albumCover": "TempNow",
+              "albumId": 2,
+              "releaseYear": 2023
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
